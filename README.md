@@ -1,6 +1,6 @@
 ## Hi there, it's Gabi! 👋
 
-🔭 I’m currently working on <a href="https://www.robinai.com/">Robin AI</a> as a Front End Engineer<br/>
+🔭 I’m a Front End Engineer<br/>
 📍 in London, UK<br/>
 👩🏻‍💻 My tech stack is mainly HTML, CSS, Javascript, Typescript, React, React Native, Jest, GraphQL<br/>
 📲 I’m learning React Native<br/>
